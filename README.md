@@ -1,12 +1,12 @@
-# 👋 Hi, I'm Kevin
+# Hi, I'm Kevin
 
-### 💻 Junior Frontend Developer (Vue-focused)
+### Junior Frontend Developer (Vue-focused)
 
 I build functional **web apps and plugins** with strong focus on:
-- ⚡ JavaScript & TypeScript
-- 🧩 Component-based architecture in Vue 3
-- 🎨 Clean UI and **creative design systems**
-- 💎 Modular SCSS and responsive styling
+-  JavaScript & TypeScript
+-  Component-based architecture in Vue 3
+-  Clean UI and **creative design systems**
+-  Modular SCSS and responsive styling
 
 I enjoy turning ideas into polished frontends — **creativity and UI design are my favorite part of development**.
 
