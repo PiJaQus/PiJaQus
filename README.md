@@ -1,6 +1,6 @@
 # Hi, I'm Kevin
 
-### Junior Frontend Developer (Vue-focused)
+### Junior Frontend Developer
 
 I build functional **web apps and plugins** with strong focus on:
 -  JavaScript & TypeScript
